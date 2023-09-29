@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohommad_Shabeer</h1>
+<h1 align="center">Hi 👋, I'm Mohommad Shabeer</h1>
 <h3 align="center">Person Exploring and Learning New Tech in Greed</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> </p>
