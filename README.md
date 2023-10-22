@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> </p>
 
-<!--
+<!-- jj
 - 🔭 I’m currently working on [Touristo](https://github.com/MOSH2213/Touristo)
 
 - 🌱 I’m currently learning **Kotlin , Android**
