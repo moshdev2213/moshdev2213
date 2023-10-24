@@ -1,6 +1,4 @@
-![gitbanner](https://github.com/moshdev2213/moshdev2213/assets/103739510/f0f57b61-113f-4e3d-85ec-6560b3a0fdb7)
-
-<!-- 
+ 
 <h1 align="center">Hi 👋, I'm Mohommad Shabeer</h1>
 <h3 align="center">Person Exploring and Learning New Tech in Greed</h3>
 
@@ -8,6 +6,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> </p>
 
 
+![ezgif com-crop (2)](https://github.com/moshdev2213/moshdev2213/assets/103739510/ba91ae1e-c005-4048-8d2e-9a4480fb3114)
+
+<!--
 - 🔭 I’m currently working on [Touristo](https://github.com/MOSH2213/Touristo)
 
 
