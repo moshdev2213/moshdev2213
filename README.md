@@ -4,29 +4,6 @@
 
 ![ezgif com-crop (2)](https://github.com/moshdev2213/moshdev2213/assets/103739510/ba91ae1e-c005-4048-8d2e-9a4480fb3114)
 
-<!--
-- 🔭 I’m currently working on [Touristo](https://github.com/MOSH2213/Touristo)
-
-
-- 🌱 I’m currently learning **Kotlin , Android**
-
-- 👯 I’m looking to collaborate on [Greeter](https://github.com/MOSH2213/Greeter)
-
-- 💬 Ask me about **Java😥**
-
-- 📫 How to reach me **moshdev2213@gmail.com**
-
-- ⚡ Fun fact **I Hate Grades😅**
-
-<h3 align="left">Social Links:</h3>
-<p align="center">
-<a href="https://twitter.com/moshdev2213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moshdev2213" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/@moshdev2213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@moshdev2213" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21447612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21447612" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/@moshdev2213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@moshdev2213" height="40" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>-->
 <div align="center">  
 <kbd><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a></kbd>  
 &nbsp;
