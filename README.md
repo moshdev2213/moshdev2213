@@ -5,7 +5,7 @@
 [<img align="left" height="200" width="400" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia"/>](https://github.com/AmitHasanShuvo/)
 
 
-<img align = "right" alt="coding" width="200" src="https://media.giphy.com/media/FMf24cokHu5y9LB7XE/giphy.gif">
+<img align = "right" alt="coding" width="300" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif">
 
 ![ezgif com-crop (2)](https://github.com/moshdev2213/moshdev2213/assets/103739510/ba91ae1e-c005-4048-8d2e-9a4480fb3114)
 
