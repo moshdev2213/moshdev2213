@@ -5,7 +5,7 @@
 <img width="50" align="left" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" alt="moshdev2213" />
 
 <!--
-<p align="center"> <img src="https://media.giphy.com/media/W8AYJPPzRiP6w/giphy.gif" alt="moshdev2213" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/W8AYJPPzRiP6w/giphy.gif" alt="moshdev2213" /> </p>
 -->
 
 <img width="150"  align="right" src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> 
