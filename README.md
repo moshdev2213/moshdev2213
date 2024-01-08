@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohommad Shabeer</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> </p>
 
-[<img align="right" width="300" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>](https://github.com/AmitHasanShuvo/)
 
-[<img align="right" width="300" style="margin-top: 300px" src="[https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia](https://github-readme-streak-stats.herokuapp.com/?user=moshdev2213&theme=algolia&hide_border=false)"/>](https://github.com/AmitHasanShuvo/)
+[<img align="left" height="200" width="400" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia"/>](https://github.com/AmitHasanShuvo/)
 
-![moshdev2213's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moshdev2213&theme=algolia&hide_border=true)
+
+<img align = "right" alt="coding" width="200" src="https://media.giphy.com/media/FMf24cokHu5y9LB7XE/giphy.gif">
 
 ![ezgif com-crop (2)](https://github.com/moshdev2213/moshdev2213/assets/103739510/ba91ae1e-c005-4048-8d2e-9a4480fb3114)
+
 <div align="center">  
 <kbd><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a></kbd>  
 &nbsp;
