@@ -1,8 +1,12 @@
 <!--
 <h1 align="center">Hi 👋, I'm Mohommad Shabeer</h1>
--->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> </p>
+-->
+<img width="50" align="left" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" alt="moshdev2213" />
 
+<p align="center"> <img src="https://media.giphy.com/media/W8AYJPPzRiP6w/giphy.gif" alt="moshdev2213" /> </p>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> 
 <!--<img align="right" height="200" width="400" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia"/>(https://github.com/AmitHasanShuvo/)
 -->
 
