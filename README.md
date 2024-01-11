@@ -11,7 +11,13 @@
 <img width="150"  align="right" src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> 
 <!--<img align="right" height="200" width="400" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia"/>(https://github.com/AmitHasanShuvo/)
 -->
+<br/>
+<br/>
 
+ <p align="center">
+   <a href="#"><img alt="Shabeer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia&hide_border=true" /></a>
+  <a href="#"><img alt="Shabeer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshdev2213&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" /></a>
+</p>
 
 <!--<img align = "left" alt="coding" width="200" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif">-->
 
