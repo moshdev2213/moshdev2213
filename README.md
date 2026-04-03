@@ -20,6 +20,7 @@
 
 <!--<img align = "left" alt="coding" width="200" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif">-->
 
+<!--
 ![ezgif com-crop (2)](https://github.com/moshdev2213/moshdev2213/assets/103739510/ba91ae1e-c005-4048-8d2e-9a4480fb3114)
 
 <div align="center">  
@@ -75,12 +76,48 @@
 &nbsp;
 <kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  </kbd>
 </div>  
+-->
 
+<!--
 <br/>
 <br/>
 
 <p align="">
    <a href="#"><img align="left" alt="Shabeer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia&hide_border=true" /></a>
   <a href="#"><img align="right" alt="Shabeer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshdev2213&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" /></a>
-<!-- <a href="#"><img align="right" height="200 alt="Shabeer's Top Languages" src="https://media.giphy.com/media/sCbpbwEz3ObZq6zdmM/giphy.gif" /></a>-->
+  <a href="#"><img align="right" height="200 alt="Shabeer's Top Languages" src="https://media.giphy.com/media/sCbpbwEz3ObZq6zdmM/giphy.gif" /></a>
 </p>
+-->
+
+<!--
+```text
+  █████████  █████                █████                                
+ ███▒▒▒▒▒███▒▒███                ▒▒███                                 
+▒███    ▒▒▒  ▒███████    ██████   ▒███████   ██████   ██████  ████████ 
+▒▒█████████  ▒███▒▒███  ▒▒▒▒▒███  ▒███▒▒███ ███▒▒███ ███▒▒███▒▒███▒▒███
+ ▒▒▒▒▒▒▒▒███ ▒███ ▒███   ███████  ▒███ ▒███▒███████ ▒███████  ▒███ ▒▒▒ 
+ ███    ▒███ ▒███ ▒███  ███▒▒███  ▒███ ▒███▒███▒▒▒  ▒███▒▒▒   ▒███     
+▒▒█████████  ████ █████▒▒████████ ████████ ▒▒██████ ▒▒██████  █████    
+ ▒▒▒▒▒▒▒▒▒  ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒   ▒▒▒▒▒▒  ▒▒▒▒▒     
+````
+-->
+
+```log
+░██                                                                             ░██               ░██                       
+                                                                                ░██               ░██                       
+░██ ░██████   ░█████████████              ░█████████████   ░███████   ░███████  ░████████   ░████████  ░███████  ░██    ░██ 
+░██      ░██  ░██   ░██   ░██             ░██   ░██   ░██ ░██    ░██ ░██        ░██    ░██ ░██    ░██ ░██    ░██ ░██    ░██ 
+░██ ░███████  ░██   ░██   ░██             ░██   ░██   ░██ ░██    ░██  ░███████  ░██    ░██ ░██    ░██ ░█████████  ░██  ░██  
+░██░██   ░██  ░██   ░██   ░██             ░██   ░██   ░██ ░██    ░██        ░██ ░██    ░██ ░██   ░███ ░██          ░██░██   
+░██ ░█████░██ ░██   ░██   ░██ ░██████████ ░██   ░██   ░██  ░███████   ░███████  ░██    ░██  ░█████░██  ░███████     ░███        
+                                                                                                                     
+2026-04-03 07:03:14  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : Starting GitHubProfileApplication using Java 17
+2026-04-03 07:03:14  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : No active profile set, falling back to 1 default profile: "developer"
+2026-04-03 07:03:15  INFO 12345 --- [      main] o.s.b.w.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.SkillService        : Loading technical expertise...
+2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Backend] Spring Boot, Java, Firebase
+2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Frontend] React.js, Tailwind CSS
+2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [DevOps] GitHub Actions, Maven, CI/CD
+2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.ProjectService      : Initializing 'eShilpa LMS' project...
+2026-04-03 07:03:16  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : Started GitHubProfileApplication in 2.456 seconds (JVM running for 3.1) 
+```
