@@ -102,6 +102,7 @@
 ````
 -->
 
+
 ```log
 ░██                                                                             ░██               ░██                       
                                                                                 ░██               ░██                       
@@ -109,15 +110,26 @@
 ░██      ░██  ░██   ░██   ░██             ░██   ░██   ░██ ░██    ░██ ░██        ░██    ░██ ░██    ░██ ░██    ░██ ░██    ░██ 
 ░██ ░███████  ░██   ░██   ░██             ░██   ░██   ░██ ░██    ░██  ░███████  ░██    ░██ ░██    ░██ ░█████████  ░██  ░██  
 ░██░██   ░██  ░██   ░██   ░██             ░██   ░██   ░██ ░██    ░██        ░██ ░██    ░██ ░██   ░███ ░██          ░██░██   
-░██ ░█████░██ ░██   ░██   ░██ ░██████████ ░██   ░██   ░██  ░███████   ░███████  ░██    ░██  ░█████░██  ░███████     ░███        
-                                                                                                                     
+░██ ░█████░██ ░██   ░██   ░██ ░██████████ ░██   ░██   ░██  ░███████   ░███████  ░██    ░██  ░█████░██  ░███████     ░███    
+v:0.9.9
+(2026::lts)     
+                                                                                                                             
 2026-04-03 07:03:14  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : Starting GitHubProfileApplication using Java 17
-2026-04-03 07:03:14  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : No active profile set, falling back to 1 default profile: "developer"
+2026-04-03 07:03:14  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : No active profile set, falling back to 1 default profile: "software-engineer" [cite: 4]
 2026-04-03 07:03:15  INFO 12345 --- [      main] o.s.b.w.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
-2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.SkillService        : Loading technical expertise...
-2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Backend] Spring Boot, Java, Firebase
-2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Frontend] React.js, Tailwind CSS
-2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [DevOps] GitHub Actions, Maven, CI/CD
-2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.ProjectService      : Initializing 'eShilpa LMS' project...
-2026-04-03 07:03:16  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : Started GitHubProfileApplication in 2.456 seconds (JVM running for 3.1) 
-```
+2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.EducationService    : Loading academic records...
+2026-04-03 07:03:15  INFO 12345 --- [      main] c.g.profile.service.EducationService    : BSc (Hons) IT Spec Software Engineering - SLIIT [cite: 8, 9]
+2026-04-03 07:03:16  INFO 12345 --- [      main] c.g.profile.service.SkillService        : Loading technical expertise...
+2026-04-03 07:03:16  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Languages] Java, JavaScript/TypeScript, Python, Go, Kotlin, SQL [cite: 11]
+2026-04-03 07:03:16  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Frameworks] Spring Boot, React, FastAPI, Flask, Node.js [cite: 12]
+2026-04-03 07:03:16  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Databases] MySQL, MongoDB, PostgreSQL, Firestore [cite: 12]
+2026-04-03 07:03:17  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Cloud & DevOps] AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions, ArgoCD [cite: 14]
+2026-04-03 07:03:17  INFO 12345 --- [      main] c.g.profile.service.SkillService        : [Observability] ELK Stack, Grafana, Prometheus, Zipkin [cite: 14]
+2026-04-03 07:03:17  INFO 12345 --- [      main] c.g.profile.service.ExperienceService   : Wiring job dependencies...
+2026-04-03 07:03:17  INFO 12345 --- [      main] c.g.profile.service.ExperienceService   : [Current] Software Engineer at WiqayaSys  & Associate Software Engineer at Simplebooks 
+2026-04-03 07:03:18  INFO 12345 --- [      main] c.g.profile.service.ProjectService      : Initializing major projects...
+2026-04-03 07:03:18  INFO 12345 --- [      main] c.g.profile.service.ProjectService      : Starting 'Skillmax' (DDD, Microservices, Kafka) [cite: 44, 45, 49]
+2026-04-03 07:03:18  INFO 12345 --- [      main] c.g.profile.service.ProjectService      : Starting 'ICare Medicals' [cite: 52] & 'Cognicare' [cite: 57]
+2026-04-03 07:03:19  INFO 12345 --- [      main] c.g.profile.service.CertificationService: Verifying credentials...
+2026-04-03 07:03:19  INFO 12345 --- [      main] c.g.profile.service.CertificationService: Loaded: Kafka Fundamentals [cite: 73], Kubernetes [cite: 74], GCP Innovator [cite: 75], AWS [cite: 76], Docker [cite: 77]
+2026-04-03 07:03:20  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : Started GitHubProfileApplication in 5.456 seconds (JVM running for 6.1)
