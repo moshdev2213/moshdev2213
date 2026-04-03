@@ -112,8 +112,9 @@
 ░██░██   ░██  ░██   ░██   ░██             ░██   ░██   ░██ ░██    ░██        ░██ ░██    ░██ ░██   ░███ ░██          ░██░██   
 ░██ ░█████░██ ░██   ░██   ░██ ░██████████ ░██   ░██   ░██  ░███████   ░███████  ░██    ░██  ░█████░██  ░███████     ░███    
 v:0.9.9
-(2026::lts)     
-                                                                                                                             
+(2026::lts)
+```     
+<!--                                                                                                                          
 2026-04-03 07:03:14  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : Starting GitHubProfileApplication using Java 17
 2026-04-03 07:03:14  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : No active profile set, falling back to 1 default profile: "software-engineer" [cite: 4]
 2026-04-03 07:03:15  INFO 12345 --- [      main] o.s.b.w.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
@@ -133,3 +134,4 @@ v:0.9.9
 2026-04-03 07:03:19  INFO 12345 --- [      main] c.g.profile.service.CertificationService: Verifying credentials...
 2026-04-03 07:03:19  INFO 12345 --- [      main] c.g.profile.service.CertificationService: Loaded: Kafka Fundamentals [cite: 73], Kubernetes [cite: 74], GCP Innovator [cite: 75], AWS [cite: 76], Docker [cite: 77]
 2026-04-03 07:03:20  INFO 12345 --- [      main] c.g.profile.GitHubProfileApplication    : Started GitHubProfileApplication in 5.456 seconds (JVM running for 6.1)
+-->
